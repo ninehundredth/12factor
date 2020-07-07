@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'sinatra', '1.2.6'
-gem 'thin', '1.2.7'
-gem 'maruku', '0.6.0'
+gem 'sinatra', '2.0.8.1'
+gem 'thin', '1.7.2'
+gem 'maruku', '0.7.3'
